@@ -93,6 +93,7 @@ The server exposes the following tools:
 | ---------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------- |
 | `scrape`               | Scrapes any target URL, expects a URL to be given via prompt.        | Scrape peacock.com from a US ip address and tell me the pricing |
 | `google_search_parsed` | Scrapes Google Search for a given query, and returns parsed results. | Scrape google search for shoes and tell me the top position     |
+| `amazon_search_parsed` | Scrapes Amazon Search for a given query, and returns parsed results. | Scrape amazon for toothbrushes                                  |
 
 ## Parameters
 
